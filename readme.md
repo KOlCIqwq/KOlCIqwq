@@ -55,9 +55,14 @@
         <br />Flutter
       </a>
     </td>
+    <td align="center" width="96">
+      <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="60" height="60" alt="Jupyter" />
+        <br />Flutter
+      </a>
+    </td>
   </tr>
 </table>
-
 ---
 
 ### 📊 Stats
@@ -72,7 +77,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">
+  <a href="https://leetcode.com/u/KOlCI/">
     <img align="center" src="https://leetcard.jacoblin.cool/KOlCI?theme=dark&ext=heatmap" />
   </a>
 </p>
