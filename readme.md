@@ -58,7 +58,7 @@
     <td align="center" width="96">
       <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="60" height="60" alt="Jupyter" />
-        <br />Flutter
+        <br />Jupyter Notebook
       </a>
     </td>
   </tr>
