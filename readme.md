@@ -94,7 +94,7 @@
   <a href="https://www.linkedin.com/in/liu-weijie-08800a373/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href=""/>
+  <a href="https://github.com/KOlCIqwq">
     <img src = "https://komarev.com/ghpvc/?username=KOlCIqwq&style=for-the-badge" alt="accViews"/>
   </a>
 </p>
