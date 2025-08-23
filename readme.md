@@ -88,7 +88,7 @@
 ### 🔗 Personal Links
 
 <p align="center">
-  <a href="">
+  <a href="https://kolciqwq.github.io/">
     <img src="https://img.shields.io/badge/Personal_Website-blue?style=for-the-badge&logo=your-logo&logoColor=white" alt="Personal Website" />
   </a>
   <a href="https://www.linkedin.com/in/liu-weijie-08800a373/">
