@@ -10,7 +10,7 @@
 
 ### 💻 Languages and Tools
 
-#### Frequently Used Languages:
+#### Proficient In
 <table>
   <tr>
     <td align="center" width="96">
@@ -25,10 +25,28 @@
         <br />Java
       </a>
     </td>
+    <td align="center" width="96">
+      <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="60" height="60" alt="Jupyter" />
+        <br />Jupyter
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://git-scm.com/about/branching-and-merging" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60" alt="Jupyter" />
+        <br />Git
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" height="60" alt="HTML" />
+        <br />HTML5
+      </a>
+    </td>
   </tr>
 </table>
 
-#### Languages I Used and Learning:
+#### Used and Learning:
 <table>
   <tr>
     <td align="center" width="96">
@@ -56,9 +74,15 @@
       </a>
     </td>
     <td align="center" width="96">
-      <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="60" height="60" alt="Jupyter" />
-        <br />Jupyter Notebook
+      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60" height="60" alt="Csharp" />
+        <br />C Sharp
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" alt="JS" />
+        <br />JavaScript
       </a>
     </td>
   </tr>
