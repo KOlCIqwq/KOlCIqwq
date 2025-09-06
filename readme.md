@@ -50,12 +50,6 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++" />
-        <br />C++
-      </a>
-    </td>
-    <td align="center" width="96">
       <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="60" height="60" alt="Rust" />
         <br />Rust
