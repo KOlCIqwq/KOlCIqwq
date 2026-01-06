@@ -7,21 +7,20 @@
 - 📫 How to reach me: [liu123luca@proton.me](mailto:liu123luca@proton.me)
 
 ---
+<details>
+  <summary>Stats</summary>
+  <p align="center">
+    <a href="https://github.com/KOlCIqwq">
+      <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KOlCIqwq&theme=radical&layout=compact&card_width=350" />
+    </a>
+  </p>
 
-### Stats
-<p align="center">
-  <a href="https://github.com/KOlCIqwq">
-    <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KOlCIqwq&theme=radical&layout=compact&card_width=350" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/KOlCI/">
-    <img align="center" src="https://leetcard.jacoblin.cool/KOlCI?theme=dark" />
-  </a>
-</p>
-
----
+  <p align="center">
+    <a href="https://leetcode.com/u/KOlCI/">
+      <img align="center" src="https://leetcard.jacoblin.cool/KOlCI?theme=dark" />
+    </a>
+  </p>
+</details>
 
 <details>
   <summary>Personal links</summary>
