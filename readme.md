@@ -2,8 +2,7 @@
 
 ### About Me
 - 👋 My name is Weijie, interested in AI 🤖 and hiking ⛰️
-- 🧑‍🎓 Currently studying for Bachelor's Degree in Internet of Things, Big Data, and Machine Learning at <a href = "https://www.uniud.it/it" target = "_blank" rel = "noreferrer"> University of Udine </a>
-- 🏎️ Driverless Team at <a href = "https://formulasae.uniud.it/" target = "_blank" rel = "noreferrer">Uniud E-Racing Team </a>
+- 🧑‍🎓 Currently studying for Master's Degree in AI at <a href = "https://www.uniud.it/it](https://www.unibo.it/en" target = "_blank" rel = "noreferrer"> University of Bologna </a>
 - 📫 How to reach me: [liu123luca@proton.me](mailto:liu123luca@proton.me)
 
 ---
